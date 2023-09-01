@@ -1,0 +1,44 @@
+h1{
+    color:black;
+    background-color: pink;
+    font-size: 40px;
+    font-weight: bolder;
+    font-style: italic;
+    text-align: center;
+
+
+}
+h4{
+    text-align: center;
+    font-size: large;
+}
+p{
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+}
+body{
+
+ background-image: url(../images/back3.jpg); 
+ background-repeat: no-repeat;
+ background-size: cover; 
+background-position: center;
+background-attachment: fixed;
+height: 200vh;
+
+}
+
+img{
+
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    height: 50vh;
+    width: 20%;
+    box-sizing: border-box;
+    padding: 10px;
+   margin: 80px;
+}
+
